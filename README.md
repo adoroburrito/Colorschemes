@@ -1,1 +1,1 @@
-.Xresources colorschemes meant to be used with urxvt
+'.Xresources' colorschemes meant to be used with urxvt.
