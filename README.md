@@ -1,10 +1,16 @@
-*'.Xresources'* colorschemes meant to be used with urxvt.
+**Colorschemes**
+======
 
-Feel free to contribute with good colorschemes.
+adr's *colorschemes*
+------
 
-Utopy: http://a.pomf.se/d674z.png
+**'.Xresources'** *colorschemes* meant to be used with *urxvt*.
 
-Icy: http://a.pomf.se/uf19u.png
+Feel free to contribute with good *colorschemes*.
 
-Sad: http://a.pomf.se/wa61u.png
+*Utopy*: http://a.pomf.se/d674z.png
+
+*Icy*: http://a.pomf.se/uf19u.png
+
+*Sad*: http://a.pomf.se/wa61u.png
 
