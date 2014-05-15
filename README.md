@@ -1,4 +1,4 @@
-'.Xresources' colorschemes meant to be used with urxvt.
+*'.Xresources'* colorschemes meant to be used with urxvt.
 
 Feel free to contribute with good colorschemes.
 
